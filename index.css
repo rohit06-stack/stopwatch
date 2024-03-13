@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(228, 182, 18);
+    height: 100%;
+}
+.container{
+    text-align: center;
+    color: white;
+    margin: 100px auto;
+    width: 800px;
+
+}
+h1 h2{
+    font-size: 4.6em;
+    margin: -3px auto;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+#seconds, #tens {
+    font-size: 2em;
+  }
